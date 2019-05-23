@@ -40,12 +40,12 @@ Table of Contents
 ## Tools
 
 * https://www.ponycheckup.com/ basic automated security checkup for Django websites
-* http title
+* https://www.sslshopper.com/ssl-checker.html diagnose problems with your SSL certificate installation
+* https://pyup.io/safety/ Safety: check your dependencies for known security vulnerabilities
 
 ## Vulnerabilities
 
 * https://www.cvedetails.com/vulnerability-list/vendor_id-10199/product_id-18211/Djangoproject-Django.html
-* 1 title
 
 ## Books
 
@@ -55,10 +55,11 @@ Table of Contents
 
 * https://docs.djangoproject.com/en/2.2/topics/security/ Django Docs: Security in Django
 * https://djangopackages.org/grids/g/security/ Django Packages: Security
+* https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/ Deployment checklist
 
 ## Courses
 
-* 1 Title
+* https://www.synopsys.com/blogs/software-security/defensive-programming-python-django/ Learn the secrets to defensive programming in Python and Django
 
 ## Articles
 
@@ -66,3 +67,6 @@ Table of Contents
 * https://dzone.com/articles/protect-your-django-web-application-from-security-1 Protect Your Django Web Application From Security Threats
 * https://opensource.com/article/18/1/10-tips-making-django-admin-more-secure 10 tips for making the Django Admin more secure
 * https://www.laurencegellert.com/2019/01/tips-and-tools-for-securing-django/ Tips and Tools for Securing Django
+* https://medium.freecodecamp.org/django-in-the-wild-tips-for-deployment-survival-9b491081c2e4 Django in the wild: tips for deployment survival
+* https://pt.slideshare.net/levigross/django-web-application-security Django Web Application Security
+* https://pt.slideshare.net/jacobian/django-in-the-real-world/ Django in the real world
