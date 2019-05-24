@@ -10,6 +10,10 @@ Table of Contents
 =================
 
    * [Libs](#libs)
+      * [MFA](#mfa)
+      * [Session Management](#session-management)
+      * [Permissions Management](#permissions-management)
+      * [Other](#other)
    * [Tools](#tools)
    * [Vulnerabilities](#vulnerabilities)
    * [Documentation](#documentation)
