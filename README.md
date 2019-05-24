@@ -12,7 +12,6 @@ Table of Contents
    * [Libs](#libs)
    * [Tools](#tools)
    * [Vulnerabilities](#vulnerabilities)
-   * [Books](#books)
    * [Documentation](#documentation)
    * [Courses](#courses)
    * [Articles](#articles)
@@ -46,10 +45,6 @@ Table of Contents
 ## Vulnerabilities
 
 * https://www.cvedetails.com/vulnerability-list/vendor_id-10199/product_id-18211/Djangoproject-Django.html
-
-## Books
-
-* http title
 
 ## Documentation
 
