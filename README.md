@@ -13,6 +13,9 @@ Table of Contents
       * [MFA](#mfa)
       * [Session Management](#session-management)
       * [Permissions Management](#permissions-management)
+      * [Honeypots](#honeypots)
+      * [Cryptography](#cryptography)
+      * [Storage](#storage)
       * [Other](#other)
    * [Tools](#tools)
    * [Vulnerabilities](#vulnerabilities)
@@ -51,11 +54,23 @@ Table of Contents
 * https://github.com/lambdalisue/django-permission Django Permission: An enhanced permission system which support object permission in Django
 * https://github.com/chrisglass/django-rulez Django Rulez: A lean and mean object-level rules system for the Django framework
 
+### Honeypots
+
+* https://github.com/dmpayton/django-admin-honeypot django-admin-honeypot is a fake Django admin login screen to log and notify admins of attempted unauthorized access
+* https://github.com/jamesturk/django-honeypot Django Honeypot: Generic honeypot utilities for use in django projects
+
+### Cryptography
+
+* https://github.com/georgemarshall/django-cryptography Django Cryptography: Easily encrypt data in Django
+
+### Storage
+
+* https://github.com/mixkorshun/django-safe-filefield Secure file field, which allows you to restrict uploaded file extensions
+* https://github.com/mxsasha/django-random-filestorage Django storage class that assigns random filenames to all stored files
+
 ### Other
 
 * https://github.com/sdelements/django-security Django Security: A collection of models, views, middlewares, and forms to help secure a Django project.
-* https://github.com/dmpayton/django-admin-honeypot django-admin-honeypot is a fake Django admin login screen to log and notify admins of attempted unauthorized access
-* https://github.com/jamesturk/django-honeypot Django Honeypot: Generic honeypot utilities for use in django projects
 * https://github.com/mattrobenolt/django-sudo Django Sudo: Extra security for your sensitive pages
 * https://bitbucket.org/petersanchez/django-impersonate/ Simple app to allow superusers to login as other (non-superuser) accounts via a quick user switch process
 * https://github.com/wemake-services/wemake-django-template Bleeding edge django template focused on code quality and security
@@ -63,13 +78,10 @@ Table of Contents
 * https://github.com/mgrouchy/django-stronghold/ Make all your Django views default login_required
 * https://github.com/Dunedan/django-lockdown Django Lockdown: Lock down a Django site or individual views, with configurable preview authorization
 * https://github.com/samastur/Impostor Impostor: Django app that enables staff to log in as other users using their own credentials
-* https://github.com/georgemarshall/django-cryptography Django Cryptography: Easily encrypt data in Django
 * https://github.com/sorl/django-primate Django Primate: A Modular Django User
 * https://github.com/ui/django-html_sanitizer A set of HTML input sanitization or cleaning utilities for django models, forms and templates
 * https://github.com/yourlabs/django-rules-light This is a simple alternative to django-rules. The core difference is that it uses as registry that can be modified on runtime, instead of database models.
 * https://github.com/lambdalisue/django-inspectional-registration Django registration app with Inspection before activation
-* https://github.com/mixkorshun/django-safe-filefield Secure file field, which allows you to restrict uploaded file extensions
-* https://github.com/mxsasha/django-random-filestorage Django storage class that assigns random filenames to all stored files
 * https://github.com/mitar/django-mongo-auth Django authentication based on an extensible MongoEngine user class
 
 ## Tools
