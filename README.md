@@ -48,6 +48,7 @@ Table of Contents
 * [DjangoRestFramework Api Key](https://github.com/florimondmanca/djangorestframework-api-key): API key permissions for the Django REST Framework
 * [Django Rules](https://github.com/maraujop/django-rules): flexible and scalable Django authorization backend for unified per object permission management
 * [Django Rules](https://github.com/dfunckt/django-rules): provides object-level permissions to Django, without requiring a database
+* [Django Role Permissions](https://github.com/vintasoftware/django-role-permissions): A django app for role based permissions
 * [Dry Rest Permissions](https://github.com/dbkaplan/dry-rest-permissions): Dry Rest Permissions: Rules based permissions for the Django Rest Framework
 * [Django Guardian](https://github.com/django-guardian/django-guardian): implementation of per-object permissions on top of Django's authorization backend.
 * [Django Authority](https://github.com/jazzband/django-authority): A Django app that provides generic per-object-permissions for Django's auth app and helpers to create custom permission checks
