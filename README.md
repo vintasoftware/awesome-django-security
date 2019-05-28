@@ -19,6 +19,7 @@ Table of Contents
       * [Other](#other)
    * [Tools](#tools)
    * [Vulnerabilities](#vulnerabilities)
+   * [Guidelines](#guidelines)
    * [Documentation](#documentation)
    * [Courses](#courses)
    * [Articles](#articles)
@@ -99,6 +100,9 @@ Table of Contents
 * [Django Debreach](https://github.com/lpomfrey/django-debreach/): Basic/extra mitigation against the BREACH attack for Django projects
 * [Django CVEs](https://www.cvedetails.com/vulnerability-list/vendor_id-10199/product_id-18211/Djangoproject-Django.html)
 
+## Guidelines
+
+* [Django Security Tips](https://github.com/sellonen/django-security-tips): Learn and promote secure system administration tips and practices in the Django community
 
 ## Documentation
 
