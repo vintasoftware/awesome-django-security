@@ -99,6 +99,7 @@ Table of Contents
 
 * [Django Debreach](https://github.com/lpomfrey/django-debreach/): Basic/extra mitigation against the BREACH attack for Django projects
 * [Django CVEs](https://www.cvedetails.com/vulnerability-list/vendor_id-10199/product_id-18211/Djangoproject-Django.html)
+* [Django: CVE-2019-12308 AdminURLFieldWidget XSS (plus patched bundled jQuery for CVE-2019-11358)](https://seclists.org/oss-sec/2019/q2/138)
 
 ## Guidelines
 
