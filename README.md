@@ -94,6 +94,7 @@ Table of Contents
 * [Pony Checkup](https://www.ponycheckup.com/): basic automated security checkup for Django websites
 * [SSL Checker](https://www.sslshopper.com/ssl-checker.html): diagnose problems with your SSL certificate installation
 * [Safety](https://pyup.io/safety/): check your dependencies for known security vulnerabilities
+* [Mozilla Observatory](https://observatory.mozilla.org): The Mozilla Observatory is a set of tools to analyze your website and inform you if you are utilizing the many available methods to secure it.
 * [Snyk](https://snyk.io): CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies 
 
 ## Vulnerabilities
