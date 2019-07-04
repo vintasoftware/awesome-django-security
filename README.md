@@ -1,8 +1,6 @@
-# awesome-django-security
-
 <br/>
 <div align="center">
-A collection of Django security-related tools and topics. If you are concerned about security and use django for productivity, this can be of help.
+A collection of Django security-related tools and topics. If you are concerned about security and use django for productivity, this can be of help.  
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
