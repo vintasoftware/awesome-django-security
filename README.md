@@ -1,10 +1,13 @@
 <br/>
 <div align="center">
-A collection of Django security-related tools and topics. If you are concerned about security and use django for productivity, this can be of help.  
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
+
+A collection of Django security-related tools and topics.
+
+If you are concerned about security and use django for productivity, this can be of help.
 
 If you'd like to __contribute__ to this list, simply open a PR with your additions.
 
