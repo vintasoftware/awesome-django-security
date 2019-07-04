@@ -1,10 +1,20 @@
 # awesome-django-security
 
+<br/>
+<div align="center">
 A collection of Django security-related tools and topics. If you are concerned about security and use django for productivity, this can be of help.
 
-If you'd like to contribute to this list, simply open a PR with your additions.
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+_List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
+
+If you'd like to __contribute__ to this list, simply open a PR with your additions.
 
 If you have contributions but don't have the time, give me a shout at twitter ([@tcostam](https://twitter.com/tcostam))
+
+Supported by: [Vinta Software](https://www.vinta.com.br)
+</div>
+<br/>
 
 Table of Contents
 =================
