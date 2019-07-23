@@ -16,7 +16,7 @@ A collection of Django security-related tools and topics. If you are concerned a
 
 If you'd like to __contribute__ to this list, simply open a PR with your additions.
 
-If you have contributions but don't have the time, give me a shout at twitter ([@tcostam](https://twitter.com/tcostam))
+Maintained by [@tcostam](https://twitter.com/tcostam). If you have contributions but don't have the time, give me a shout at twitter
 
 Table of Contents
 =================
@@ -34,6 +34,7 @@ Table of Contents
    * [Guidelines](#guidelines)
    * [Documentation](#documentation)
    * [Courses](#courses)
+   * [Talks](#talks)
    * [Articles](#articles)
 
 ## Libs
@@ -116,6 +117,7 @@ Table of Contents
 ## Guidelines
 
 * [Django Security Tips](https://github.com/sellonen/django-security-tips): Learn and promote secure system administration tips and practices in the Django community
+* [OWASP Python Security Project](http://www.pythonsecurity.org/)
 
 ## Documentation
 
@@ -126,6 +128,10 @@ Table of Contents
 ## Courses
 
 * [Learn the secrets to defensive programming in Python and Django](https://www.synopsys.com/blogs/software-security/defensive-programming-python-django/)
+
+## Talks
+
+* [Terri Oda - Python Security Tools - PyCon 2019](https://www.youtube.com/watch?v=e7zzdl8OXCU)
 
 ## Articles
 
