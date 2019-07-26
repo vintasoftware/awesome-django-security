@@ -126,6 +126,7 @@ Table of Contents
 * [Django Docs: Security in Django](https://docs.djangoproject.com/en/2.2/topics/security/)
 * [Django Packages: Security](https://djangopackages.org/grids/g/security/)
 * [Deployment checklist](https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/)
+* [Mozilla's tutorial on Django web application security](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/web_application_security)
 
 ## Courses
 
