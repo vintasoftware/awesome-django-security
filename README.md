@@ -138,6 +138,7 @@ Table of Contents
 
 ## Articles
 
+* [What You Need to Know to Manage Users in Django Admin](https://realpython.com/manage-users-in-django-admin/)
 * [MDN - Django web application security](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/web_application_security)
 * [Protect Your Django Web Application From Security Threats](https://dzone.com/articles/protect-your-django-web-application-from-security-1)
 * [10 tips for making the Django Admin more secure](https://opensource.com/article/18/1/10-tips-making-django-admin-more-secure)
