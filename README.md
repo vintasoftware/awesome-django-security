@@ -108,7 +108,7 @@ Table of Contents
 * [SSL Checker](https://www.sslshopper.com/ssl-checker.html): diagnose problems with your SSL certificate installation
 * [Safety](https://pyup.io/safety/): check your dependencies for known security vulnerabilities
 * [Mozilla Observatory](https://observatory.mozilla.org): The Mozilla Observatory is a set of tools to analyze your website and inform you if you are utilizing the many available methods to secure it.
-* [Snyk](https://snyk.io): CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies 
+* [Snyk](https://snyk.io): CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
 
 ## Vulnerabilities
 
@@ -146,3 +146,4 @@ Table of Contents
 * [Django in the wild: tips for deployment survival](https://medium.freecodecamp.org/django-in-the-wild-tips-for-deployment-survival-9b491081c2e4)
 * [Django Web Application Security](https://pt.slideshare.net/levigross/django-web-application-security)
 * [Django in the real world](https://pt.slideshare.net/jacobian/django-in-the-real-world/)
+* [XSS Exploitation in Django Applications](https://tonybaloney.github.io/posts/xss-exploitation-in-django.html)
