@@ -104,7 +104,7 @@ Table of Contents
 ## Tools
 
 * [Django Trawler](https://bitbucket.org/onelson/django-trawler/src/default/): This app is used to send out phishing emails and collect data on which recipients acted on them
-* [Pony Checkup](https://www.ponycheckup.com/): basic automated security checkup for Django websites
+* [DJ Checkup](https://djcheckup.com/): basic automated security checkup for Django websites
 * [SSL Checker](https://www.sslshopper.com/ssl-checker.html): diagnose problems with your SSL certificate installation
 * [Safety](https://pyup.io/safety/): check your dependencies for known security vulnerabilities
 * [Mozilla Observatory](https://observatory.mozilla.org): The Mozilla Observatory is a set of tools to analyze your website and inform you if you are utilizing the many available methods to secure it.
