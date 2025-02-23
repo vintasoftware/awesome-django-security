@@ -120,6 +120,8 @@ Table of Contents
 
 * [Django Security Tips](https://github.com/sellonen/django-security-tips): Learn and promote secure system administration tips and practices in the Django community
 * [OWASP Python Security Project](http://www.pythonsecurity.org/)
+* [Django Security Cheat Sheet - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/Django_Security_Cheat_Sheet.html)
+* [Django REST Framework (DRF) Cheat Sheet - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/Django_REST_Framework_Cheat_Sheet.html)
 
 ## Documentation
 
@@ -135,6 +137,7 @@ Table of Contents
 ## Talks
 
 * [Terri Oda - Python Security Tools - PyCon 2019](https://www.youtube.com/watch?v=e7zzdl8OXCU)
+* [Kelsey Gilmore-Innis - Making Django Ridiculously Secure (CW) - DjangoCon US 2015](https://youtu.be/H2llNbMe-V4?si=i4-OUGvOHb4cdsrq)
 
 ## Articles
 
