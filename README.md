@@ -106,6 +106,7 @@ Table of Contents
 * [Django Trawler](https://bitbucket.org/onelson/django-trawler/src/default/): This app is used to send out phishing emails and collect data on which recipients acted on them
 * [DJ Checkup](https://djcheckup.com/): basic automated security checkup for Django websites
 * [SSL Checker](https://www.sslshopper.com/ssl-checker.html): diagnose problems with your SSL certificate installation
+* [Vulert](vulert.com): Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.
 * [Safety](https://pyup.io/safety/): check your dependencies for known security vulnerabilities
 * [Mozilla Observatory](https://observatory.mozilla.org): The Mozilla Observatory is a set of tools to analyze your website and inform you if you are utilizing the many available methods to secure it.
 * [Snyk](https://snyk.io): CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
