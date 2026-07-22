@@ -119,6 +119,7 @@ Table of Contents
 ## Guidelines
 
 * [Django Security Tips](https://github.com/sellonen/django-security-tips): Learn and promote secure system administration tips and practices in the Django community
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 * [OWASP Python Security Project](http://www.pythonsecurity.org/)
 * [Django Security Cheat Sheet - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/Django_Security_Cheat_Sheet.html)
 * [Django REST Framework (DRF) Cheat Sheet - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/Django_REST_Framework_Cheat_Sheet.html)
