@@ -109,6 +109,7 @@ Table of Contents
 * [Safety](https://pyup.io/safety/): check your dependencies for known security vulnerabilities
 * [Mozilla Observatory](https://observatory.mozilla.org): The Mozilla Observatory is a set of tools to analyze your website and inform you if you are utilizing the many available methods to secure it.
 * [Snyk](https://snyk.io): CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
+* [EyalSec es-python](https://eyalsec.com): commercial Python runtime; run your Django app unchanged and it reports or blocks request data reaching a SQL query (for example through `raw()`), shell command, deserializer or file path
 
 ## Vulnerabilities
 
