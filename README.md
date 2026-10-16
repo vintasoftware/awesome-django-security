@@ -100,6 +100,7 @@ Table of Contents
 * [Django Mongo Auth](https://github.com/mitar/django-mongo-auth): Django authentication based on an extensible MongoEngine user class
 * [HTML Sanitizer](https://github.com/matthiask/html-sanitizer): Allowlist-based HTML cleaner
 * [Bleach](https://github.com/mozilla/bleach): Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
+* [djapi-guard](https://github.com/Guard-Core/djapi-guard): Django middleware for IP allow and deny lists, rate limiting with automatic bans and penetration attempt detection.
 
 ## Tools
 
