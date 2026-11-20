@@ -109,6 +109,7 @@ Table of Contents
 * [Safety](https://pyup.io/safety/): check your dependencies for known security vulnerabilities
 * [Mozilla Observatory](https://observatory.mozilla.org): The Mozilla Observatory is a set of tools to analyze your website and inform you if you are utilizing the many available methods to secure it.
 * [Snyk](https://snyk.io): CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies
+* [Vulert](https://vulert.com): Vulert secures your software supply chain by detecting and continuously monitoring vulnerabilities and malicious open-source dependencies — without accessing your source code or installing agents. It helps developers identify, prioritize, and fix vulnerabilities quickly and efficiently. Supports JavaScript, PHP, Java, Python, Go, Rust, and more.
 
 ## Vulnerabilities
 
